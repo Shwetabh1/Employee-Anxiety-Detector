@@ -19,6 +19,7 @@ This project aims to display live emotions expressed.
 1. Expression detection is a two step process. Face detection and then expression detection.
 1. haar-cascade-classifiers has been used for face detection.
 1. Once face is detected it is rescaled and chopped to 48 * 48 pixel size. and run against our trained model.
+1. EMOTIONS = ['angry', 'disgusted', 'fearful','happy', 'sad', 'surprised', 'neutral']
 
 ## Technologies Used
 1. Python
