@@ -1,7 +1,7 @@
 <h1 align="center"> Employee Anxiety Detector </h1>
 
 <div align="center">
-    <img src="https://github.com/Shwetabh1/submit-timesheet/blob/master/time-isnt-the-main-thing-1000x486.png" alt="Essential JavaScript" width="400" height="200"/>
+    <img src="https://github.com/Shwetabh1/Employee-Anxiety-Detector/blob/master/Emotions.png" alt="Essential JavaScript" width="400" height="200"/>
   <br>
 </div>
 
